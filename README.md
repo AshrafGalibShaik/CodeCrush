@@ -1,4 +1,4 @@
-# 🧠 DSA Assistant
+# 🧠 CodeCrush
 
 > **AI-Powered Data Structures & Algorithms Problem Solver**  
 > A fine-tuned Gemma 7B model optimized for coding interviews and competitive programming
